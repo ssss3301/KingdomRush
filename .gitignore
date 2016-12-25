@@ -282,3 +282,8 @@ $RECYCLE.BIN/
 
 # cocos2d
 cocos2d/
+
+#proj
+proj.win32/Debug.win32
+proj.win32/KingdomRush.VC.db
+proj.win32/KingdomRush.VC.VC.*
